@@ -1,0 +1,44 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.person-info {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.person-info h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.person-info p {
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.person-info img {
+  max-width: 100%;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.time {
+  font-size: 16px;
+  color: #555;
+}
